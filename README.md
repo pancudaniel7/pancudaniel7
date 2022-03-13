@@ -1,1 +1,3 @@
-My profile
+![Alt text](img/header.jpg?raw=true "Header")
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ribbon-condensed&duration=11000&color=43EAF7&multiline=true&width=1350&height=200&lines=Hi%2C+welcome+to+my+profile+...;If+your+looking+for+a+senior+freelancer+software+developer+that+can+bring+value+to+your+business%2C;you+found+the+right+person!;To+sent+me+a+message%2C+you+can+find+the+Linkedin+URL+on+Github+profile+description+on+the+left+side+of+the+page;________________________________________________________________________________________________________________)](https://git.io/typing-svg)
